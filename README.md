@@ -109,7 +109,4 @@ Add a vote to specific poll.
 ```
 <!--START_SECTION:footer-->
 
-<br />
-<br />
-
 <!--END_SECTION:footer-->
